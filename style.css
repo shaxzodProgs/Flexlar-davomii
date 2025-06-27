@@ -1,0 +1,30 @@
+body{
+    background-color: #2A5D5A;
+}
+
+.header{
+    text-align: center;
+    color: #fff;
+    background-color: #311313;
+    font-family: arial,sans-serif;
+    margin: 80px 80px;
+    padding: 2px;
+    font-size: large;
+}
+
+.hero{
+    box-sizing: border-box;
+    border: 10px solid;
+    border-color: #FF0606;
+    background-color: #000000;
+    margin: 20px;
+    padding: 20px;
+}
+
+.box_1, .box_2 {
+    background-color: #1ee8b6;
+    padding: 30px;
+    margin: 30px;
+    margin-top: 20px;
+    font-size: large;
+}
